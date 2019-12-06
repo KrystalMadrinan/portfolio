@@ -4,11 +4,11 @@
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 10:35
 
-Finish time: 
+Finish time: 11:27
 
-Actual time needed to complete: 
+Actual time needed to complete: 52 minutes
 
 
 ## Number and name of feature: #2: Modify the Contents
