@@ -1,3 +1,7 @@
+<!-- Photo by Davids Kokainis on Unsplash
+Photo by Mark Asthoff on Unsplash -->
+
+
 # Portfolio
 
 ## Number and name of feature: #1: Refactor the CCSS
@@ -15,11 +19,13 @@ Actual time needed to complete: 52 minutes
 
 Estimate of time needed to complete: 3 hours
 
-Start time: 
+Start time: 11:45
 
-Finish time: 
+Finish time: 1:45
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 hours, not completed
+
+
 
 
 # Feature #1: Refactor the CSS
@@ -69,3 +75,4 @@ Then the content should be unique and reflect the skills and personality of the 
 *Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 
 *Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
+
