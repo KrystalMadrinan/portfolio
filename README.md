@@ -4,7 +4,7 @@ Photo by Mark Asthoff on Unsplash -->
 
 # Portfolio
 
-## Number and name of feature: #1: Refactor the CCSS
+## Number and name of feature: #1: Refactor the CSS
 
 Estimate of time needed to complete: 1 hour
 
@@ -24,6 +24,16 @@ Start time: 11:45
 Finish time: 1:45
 
 Actual time needed to complete: 2 hours, not completed
+
+## Number and name of feature: #1, lab 5a: Add functionality
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:00 AM
+
+Finish time: 
+
+Actual time needed to complete: 
 
 
 
@@ -76,3 +86,28 @@ Then the content should be unique and reflect the skills and personality of the 
 
 *Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
+
+
+
+
+# User Acceptance Tests
+## Feature #1: Add functionality
+### Why are we implementing this feature?
+
+ * As a user, I want to view a unique portfolio so that the developer’s projects and skills stand out.
+
+### What are we going to implement?
+
+* Given that a user opens the application in the browser
+When the user navigates to the home page
+Then the portfolio contents should be displayed
+
+### How are we implementing it?
+
+Complete the following features:
+
+* Use CDNs for content from libraries and remove the source code files from the project, as applicable
+* Note: CDNs are available for all libraries except Breakpoints.JS
+* In tablet view, show a fixed navigation menu instead of a hamburger menu
+* Convert the large image at the top of your portfolio to a video background or an image carousel containing at least three images
+* Add any other UI features that you feel will make your portfolio unique and personalized

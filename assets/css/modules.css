@@ -286,7 +286,7 @@ input[type="button"], input[type="submit"], input[type="reset"], button, .button
 }
 
 #nav ul li a.active span:before {
-    color: #e27689;
+    color: #9ececc;
 }
 
 /* Footer */
