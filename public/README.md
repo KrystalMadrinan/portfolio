@@ -21,3 +21,13 @@ Start time: 5:30
 Finish time: 5:35
 
 Actual time needed to complete: 5 minutes
+
+Number and name of feature: Refactor CSS
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 5:03 
+
+Finish time: 5:18
+
+Actual time needed to complete: 15 minutes
